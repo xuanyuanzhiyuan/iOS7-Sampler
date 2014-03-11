@@ -34,7 +34,7 @@
     
     self.items = @[
                    // Dynamic Behaviors
-                   @{kItemKeyTitle: @"Dynamic Behaviors",
+                   @{kItemKeyTitle: @"动态行为",
                      kItemKeyDescription: @"UIDynamicAnimator, UICollisionBehavior, etc...",
                      kItemKeyClassPrefix: @"DynamicBehaviors",
                      },
